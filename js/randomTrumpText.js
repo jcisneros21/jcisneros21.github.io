@@ -1,11 +1,7 @@
 text_list = [
+              "Oh shit waddup Trump MAGA",
               "I can just see Kim Jong saying this as Trump offers him some laced meth with Pence at his side",
-              "And then we got super owned by soviet union for another 50 years and yet there are people who still vote communists too. I mean, US has people who voted for Trump for gods sake. There are dumb people everywhere.",
-              "> And then we got super owned by soviet union for another 50 years and yet there are people who still vote communists too. I mean, US has people who voted for Trump for gods sake. There are dumb people everywhere.   Yeah good point. ",
-              "The reason these people support facism is because they're scared of Eastern Europe becoming more diverse. That's all it is, they're driven by tribal racism, not any historical knowledge or logic. They're like the Trump supporters, they just want to remove non-whites from their countries, they want to build walls and deport people who have dark skin. They are scum and deserve non-stop social ridicule, its sickening that their mentality is making a come back in the West as anti-refugee and anti-immigrant parties rise. Even worse the Russian troll factory is promoting their hateful ideas all over Reddit and other social media platforms. This is why its so important to shame Trump supporters for voting for him, people respond to social pressure more than reason and logic. The reality is that people will abandon their knee jerk racist views if it's socially damaging, that's largely how we defeated so much racism in the past. It wasn't logic and in-depth arguements that stopped the KKK, it was it becoming socially shameful to join the klan. edit: Just got a racist PM from a Trumpet. Stay classy.",
-              "That is bullshit. I am not a trump supporter, but they do not hate non white people. Go look how much upvotes a black trump supporter post gets. Gee whiz",
-              "Dehumanization happens more often than you think. Like you're suggesting, yup Trump does it too. He makes these outrageous statements, and then even when people demand he repent (and he does) the fact remains he DID say that to his followers, and the backpedal often falls onto deaf ears. To some, he \"said what had to be said\" and he only repented because he was FORCED to by his \"enemies\". Which obviously isn't true. From every war, WWI, WWII, Korea, Vietnam, etc etc imagry like The Huns (germans) and Japs, to words like \"gooks\" or for US troops in the middle east \"Towel-heads and sand n*ers\" were used as well. A while back, the armed forces actually started a campaign AGAINST officers and the like using these words to attempt dehumanization.  It's really neat they're doing so, as while dehumanization makes it easier to kill someone you don't believe is equal to you, it's not healthy nor should it be used by the US Armed Forces.",
-              "> Honestly that's the route to effective change, alienating and to an extent marginalizing people just leads to further radicalization(see: middle-east). Also, see US politics or reddit.  Trump supporters and many conservatives look at liberals as what's wrong with America and that liberalism is a mental disorder.  Liberals look at Trump supporters and conservatives as racist, bigots, misogynists that want nothing but white male superiority.  You can see the exact same insults and name calling in T_D as you do in r/Liberal or r/esist.",
+              "What do you think about American healthcare and healthcare in other countries like, say, european ones? Some people say that healthcare is dumb because you pay taxes for it and may never need it. On the other hand, people who get fucked and -really- need to get treated for something serious don't need to worry about it.  What's your opinion? Which is better?  Thoughts on Obamacare and Trump removing it without replacing it with something better like he promised?",
               "That's a bit too far, I'm guessing you're from the US. You can't really make jokes at any country when your president is Donald trump.  Reply when you finish shooting up a school.",
               "Ok.  All done. Don't blame me for Trump.  I voted for Donald Duck.",
               "Yeah that's basically how Trump got millions of free air time and press during his campaign.",
@@ -19,13 +15,9 @@ text_list = [
              ];
 
 name_list = [
+              "And_You_Like_It_Too",
               "fuckyou2258",
-              "venomae",
-              "_rknews",
-              "skybox9",
-              "pandabear201",
-              "Sam-Gunn",
-              "RoleModelFailure",
+              "arkindal",
               "AlphaWolf901",
               "TokeyWakenbaker",
               "rycia007",
@@ -39,11 +31,11 @@ name_list = [
              ];
 
 rank_list = [
-              3,
-              9,
-              14,
               5,
+              10,
+              0,
               1,
+              9,
              ];
 
 var amount = text_list.length;
